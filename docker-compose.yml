@@ -1,0 +1,7 @@
+services:
+  trendwatch_bot:
+    build: .
+    container_name: trendwatch_bot
+    ports:
+      - "8095:8095"
+    restart: unless-stopped
