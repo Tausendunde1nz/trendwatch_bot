@@ -1,1 +1,0 @@
-# trendwatch_bot
